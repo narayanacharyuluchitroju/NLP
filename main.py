@@ -5,8 +5,10 @@
 
 
 def print_hi(name):
-    # Use a breakpoint in the code line below to debug your script.
-    print(f'Hi, {name}')  # Press Ctrl+F8 to toggle the breakpoint.
+    a = [1, 2, 3, 4]
+    print(type(a))
+    a = a.astype(str)
+    print(type(a))
 
 
 # Press the green button in the gutter to run the script.
