@@ -1,6 +1,5 @@
 ,word,pos_tag,counts
-2,one,CD,5
-4,two,CD,4
-0,hundred,CD,1
-1,million,CD,1
-3,six,CD,1
+1,one,CD,5
+3,two,CD,4
+0,million,CD,1
+2,six,CD,1
