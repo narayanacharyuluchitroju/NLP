@@ -1,6 +1,5 @@
 #Contraction Mapping
 CONTRACTION_MAP = {
-"isnt":"is not",
 "ain't": "is not",
 "aren't": "are not",
 "can't": "cannot",

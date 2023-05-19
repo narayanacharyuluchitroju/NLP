@@ -1,0 +1,12 @@
+,word,pos_tag,counts
+0,covid,JJ,64
+1,covid,NN,5
+2,covid,NNP,40
+3,covid,VB,2
+4,covidindiaseva,NNP,1
+5,covidinsa,NN,1
+6,covidlong,NNP,1
+7,covidnewsbymib,NNP,1
+8,covidvaccines,NNP,1
+9,covidvaccines,NNS,1
+10,longcovid,NNP,1
