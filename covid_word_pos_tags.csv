@@ -1,5 +1,6 @@
-,word,pos_tag,counts
+,Word,POS tag,counts
 0,covid,JJ,61
-2,covid,NNP,43
-1,covid,NN,5
-3,covid,VB,2
+1,covid,NN,21
+2,covid,NNP,15
+3,covid,VB,6
+4,covid,VBP,2
